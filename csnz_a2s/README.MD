@@ -1,5 +1,5 @@
 # Counter-Strike Online
-## PAK Archive Extractor
+## CSN:Z Dedi Server Queries
 
 Author:  
 - [Smilex_Gamer](https://github.com/SmilexGamer)
