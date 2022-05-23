@@ -8,4 +8,4 @@ Cloud Storage:
 > https://archive.org/details/@smilex_gamer
 
 Description:
-> Public cloud storage for archiving CSO game clients that no longer open for services.
+> Public cloud storage for archived old version of CSO game clients.
